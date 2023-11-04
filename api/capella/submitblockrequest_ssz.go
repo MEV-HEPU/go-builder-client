@@ -4,8 +4,8 @@
 package capella
 
 import (
-	v1 "github.com/attestantio/go-builder-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/capella"
+	v1 "github.com/MEV-HEPU/go-builder-client/api/v1"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
 	ssz "github.com/ferranbt/fastssz"
 )
 

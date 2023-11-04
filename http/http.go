@@ -23,7 +23,7 @@ import (
 	"net/url"
 	"strings"
 
-	consensusspec "github.com/attestantio/go-eth2-client/spec"
+	consensusspec "github.com/MEV-HEPU/go-eth2-client/spec"
 	"github.com/pkg/errors"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"

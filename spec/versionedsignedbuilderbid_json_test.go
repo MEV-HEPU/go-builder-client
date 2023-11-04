@@ -17,7 +17,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/attestantio/go-builder-client/spec"
+	"github.com/MEV-HEPU/go-builder-client/spec"
 	"github.com/stretchr/testify/require"
 	"gotest.tools/assert"
 )

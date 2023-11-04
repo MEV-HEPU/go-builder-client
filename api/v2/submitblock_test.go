@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	v2 "github.com/attestantio/go-builder-client/api/v2"
+	v2 "github.com/MEV-HEPU/go-builder-client/api/v2"
 	"github.com/stretchr/testify/require"
 	"gotest.tools/assert"
 )

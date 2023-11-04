@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/attestantio/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
 	"github.com/goccy/go-yaml"
 )
 

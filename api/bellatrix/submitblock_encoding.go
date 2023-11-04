@@ -4,8 +4,8 @@
 package bellatrix
 
 import (
-	v1 "github.com/attestantio/go-builder-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
+	v1 "github.com/MEV-HEPU/go-builder-client/api/v1"
+	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
 	ssz "github.com/ferranbt/fastssz"
 )
 

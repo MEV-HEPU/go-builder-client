@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
-	v1 "github.com/attestantio/go-builder-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	v1 "github.com/MEV-HEPU/go-builder-client/api/v1"
+	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
+	"github.com/MEV-HEPU/go-eth2-client/spec/phase0"
 	"github.com/goccy/go-yaml"
 	"github.com/pkg/errors"
 )

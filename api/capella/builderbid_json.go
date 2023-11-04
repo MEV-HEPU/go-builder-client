@@ -20,8 +20,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec/phase0"
 	"github.com/holiman/uint256"
 	"github.com/pkg/errors"
 )

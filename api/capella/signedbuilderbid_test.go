@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/attestantio/go-builder-client/api/capella"
+	"github.com/MEV-HEPU/go-builder-client/api/capella"
 	"github.com/goccy/go-yaml"
 	"github.com/stretchr/testify/require"
 	"gotest.tools/assert"

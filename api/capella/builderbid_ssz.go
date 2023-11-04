@@ -4,7 +4,7 @@
 package capella
 
 import (
-	"github.com/attestantio/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
 	ssz "github.com/ferranbt/fastssz"
 	"github.com/holiman/uint256"
 )

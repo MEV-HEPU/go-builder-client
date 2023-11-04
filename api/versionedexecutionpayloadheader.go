@@ -14,8 +14,8 @@
 package api
 
 import (
-	consensusspec "github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
+	consensusspec "github.com/MEV-HEPU/go-eth2-client/spec"
+	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
 )
 
 // VersionedExecutionPayloadHeader contains a versioned ExecutionPayloadHeaderV1.

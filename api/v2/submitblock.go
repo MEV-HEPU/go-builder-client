@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	v1 "github.com/attestantio/go-builder-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	v1 "github.com/MEV-HEPU/go-builder-client/api/v1"
+	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec/phase0"
 )
 
 // SubmitBlockRequest is the v2 request from the builder to submit a block.

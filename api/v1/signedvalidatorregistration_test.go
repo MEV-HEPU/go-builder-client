@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	apiv1 "github.com/attestantio/go-builder-client/api/v1"
+	apiv1 "github.com/MEV-HEPU/go-builder-client/api/v1"
 	"github.com/goccy/go-yaml"
 	require "github.com/stretchr/testify/require"
 	"gotest.tools/assert"

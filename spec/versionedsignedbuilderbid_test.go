@@ -16,13 +16,13 @@ package spec_test
 import (
 	"testing"
 
-	"github.com/attestantio/go-builder-client/api/bellatrix"
-	"github.com/attestantio/go-builder-client/api/capella"
-	"github.com/attestantio/go-builder-client/spec"
-	consensusspec "github.com/attestantio/go-eth2-client/spec"
-	consensusbellatrix "github.com/attestantio/go-eth2-client/spec/bellatrix"
-	consensuscapella "github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/MEV-HEPU/go-builder-client/api/bellatrix"
+	"github.com/MEV-HEPU/go-builder-client/api/capella"
+	"github.com/MEV-HEPU/go-builder-client/spec"
+	consensusspec "github.com/MEV-HEPU/go-eth2-client/spec"
+	consensusbellatrix "github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
+	consensuscapella "github.com/MEV-HEPU/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec/phase0"
 	"github.com/holiman/uint256"
 	"github.com/stretchr/testify/require"
 )

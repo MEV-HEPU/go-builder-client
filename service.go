@@ -16,11 +16,11 @@ package client
 import (
 	"context"
 
-	"github.com/attestantio/go-builder-client/api"
-	"github.com/attestantio/go-builder-client/spec"
-	consensusapi "github.com/attestantio/go-eth2-client/api"
-	consensusspec "github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/MEV-HEPU/go-builder-client/api"
+	"github.com/MEV-HEPU/go-builder-client/spec"
+	consensusapi "github.com/MEV-HEPU/go-eth2-client/api"
+	consensusspec "github.com/MEV-HEPU/go-eth2-client/spec"
+	"github.com/MEV-HEPU/go-eth2-client/spec/phase0"
 )
 
 // Service is the service providing a connection to an MEV relay.

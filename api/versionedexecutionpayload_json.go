@@ -17,9 +17,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/capella"
+	"github.com/MEV-HEPU/go-eth2-client/spec"
+	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
+	"github.com/MEV-HEPU/go-eth2-client/spec/capella"
 	"github.com/pkg/errors"
 )
 
