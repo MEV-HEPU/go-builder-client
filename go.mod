@@ -3,8 +3,8 @@ module github.com/MEV-HEPU/go-builder-client
 go 1.20
 
 require (
-	github.com/MEV-HEPU/go-eth2-client v0.16.3-fix
-	github.com/ferranbt/fastssz v0.1.3
+	github.com/MEV-HEPU/fastssz v0.1.3-fix
+	github.com/MEV-HEPU/go-eth2-client v0.16.3-hepu
 	github.com/goccy/go-yaml v1.11.2
 	github.com/holiman/uint256 v1.2.3
 	github.com/pkg/errors v0.9.1

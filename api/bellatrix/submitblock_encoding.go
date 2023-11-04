@@ -6,7 +6,7 @@ package bellatrix
 import (
 	v1 "github.com/MEV-HEPU/go-builder-client/api/v1"
 	"github.com/MEV-HEPU/go-eth2-client/spec/bellatrix"
-	ssz "github.com/ferranbt/fastssz"
+	ssz "github.com/MEV-HEPU/fastssz"
 )
 
 // MarshalSSZ ssz marshals the SubmitBlockRequest object
